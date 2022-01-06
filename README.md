@@ -32,3 +32,9 @@ Ibus libpinyin
 当前仅仅是刚**新建文件夹**后整的，可能存在错误，以及缺失。有空了再鼓捣鼓捣，现在勉强能用。
 
 那些大娃套小娃的玩意儿还是老老实实用LaTeX，MathJax伍的，这个也就图一方便（或者图一清楚）。
+
+## 声明
+
+微软词库由深蓝词库转换制作，由衷感谢。
+
+部分词条来自于[rapidtables.com](https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html)，由衷感谢。
